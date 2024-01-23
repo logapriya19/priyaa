@@ -1,0 +1,42 @@
+p{
+	padding:50px;
+	background:lightblue;
+	font-size:30px;
+}
+a{
+	background:hotpink;
+	font-size:25px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+header h4{
+  padding: 20px;
+  text-align: center;
+  background: lightblue;
+  color: white;
+  font-size: 15px;
+}
+footer h3{
+    padding:20px;
+	background:hotpink;
+	font-size:10px;
+	text-align:center;
+}
